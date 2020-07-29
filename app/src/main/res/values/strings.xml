@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ViewCoBanAndroid</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="tbemail">Email</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="tbname">Name</string>
+    <string name="read">Reading</string>
+    <string name="code">Coding</string>
+    <string name="travel">Travelling</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="languages">Languages</string>
+    <string name="text">You have experience with Java framewoks</string>
+    <string name="cancel">Cancel</string>
+    <string name="information">Information</string>
+</resources>
